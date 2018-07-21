@@ -8,6 +8,3 @@ def levitation_quiz
     puts "You passed the quiz!"
 end
 
-
-def levitation_quiz
-  until answer == "Wingardium Leviosa"
